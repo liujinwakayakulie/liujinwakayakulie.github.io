@@ -93,18 +93,19 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "GitHub·RainbomSea",
-        href: "http://RainbomSea.github.io"
-    },{
-        title: "CSDN·RainbomSea",
-        href: "https://blog.csdn.net/qq_39268193"
-    },{
-        title: "知乎·RainbomSea",
-        href: "https://www.zhihu.com/people/RainbomSea"
-    },{
-        title: "GitBook·RainbomSea",
-        href: "https://legacy.gitbook.com/@rainbomsea"
-    }
-]
+# 右侧链接，我是个没有感情的杀手，所以也就没有写哈哈
+# friends: [
+#     {
+#         title: "GitHub·RainbomSea",
+#         href: "http://RainbomSea.github.io"
+#     },{
+#         title: "CSDN·RainbomSea",
+#         href: "https://blog.csdn.net/qq_39268193"
+#     },{
+#         title: "知乎·RainbomSea",
+#         href: "https://www.zhihu.com/people/RainbomSea"
+#     },{
+#         title: "GitBook·RainbomSea",
+#         href: "https://legacy.gitbook.com/@rainbomsea"
+#     }
+# ]
