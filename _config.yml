@@ -7,7 +7,7 @@ description: "二狗子的博客"
 keyword: "二狗子, 二狗子的博客, iOS blog"
 url: "http://liujinwakayakulie.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.comliujinwakayakulie/liujinwakayakulie.github.io.git" #code repository | 代码仓库
+github_repo: "https://github.com/liujinwakayakulie/liujinwakayakulie.github.io.git" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
