@@ -9,7 +9,7 @@ catalog: true
 tags:
     - Effective OC
 ---
-#了解Objective-C语言的起源
+##了解Objective-C语言的起源
 ###起源
 OC是由[Smalltalk](https://zh.wikipedia.org/wiki/Smalltalk)演化来的，与C++和Java的“函数调用”不同，OC使用“消息结构”。
 ###何为消息结构
