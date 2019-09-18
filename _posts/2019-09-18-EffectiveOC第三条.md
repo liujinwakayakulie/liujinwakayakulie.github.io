@@ -25,7 +25,9 @@ NSString *stringLiteral = @"我是字面量";
 NSString *stringOther = [NSString stringWithFormat:@"我是与之等价"];
 ```
 将文件转化为cpp文件后变成这样
+
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g73rzvnxo8j30ki04imxz.jpg)
+
 我们看到了第二种方法还需要调用stringwithFormat方法，确实是长了（其实我不知道我这整对不对。）
 ### 易读性
 ##### 数值型
