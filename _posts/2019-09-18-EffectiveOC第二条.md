@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      在类的头文件中尽量少引入其他头文件
+subtitle:   Effective OC 第二条
+date:       2019-09-18
+author:     二狗子
+header-img: img/home-bg-o.jpg
+catalog: true
+tags:
+    - Effective OC
+---
 #在类的头文件中尽量少引入其他头文件
 ###类
 在Xcode中，类基本上都是这样创建的
