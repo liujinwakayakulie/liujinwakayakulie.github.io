@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      多用字面量语法少用与之等价的方法
+subtitle:   Effective OC 第三条
+date:       2019-09-18
+author:     二狗子
+header-img: img/home-bg-o.jpg
+catalog: true
+tags:
+    - Effective OC
+---
 #多用字面量语法少用与之等价的方法
 ###什么是字面量语法
 ```NSString *address = @"望京北路";```
