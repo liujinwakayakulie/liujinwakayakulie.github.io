@@ -13,9 +13,12 @@ tags:
 ### 类
 在Xcode中，类基本上都是这样创建的
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g73qdjm3lmj30kc0ehgo5.jpg)
+
 这里创建了一个名字为EOCPerson的类，他是NSObject的子类，使用OC语言，创建之后我们会得到**EOCPerson.h**和**EOCPerson.m**两个文件。
+
 ![EOCPerson.h](https://tva1.sinaimg.cn/large/006y8mN6ly1g73qippjjnj30he06c74v.jpg)
 ![EOCPerson.m](https://tva1.sinaimg.cn/large/006y8mN6ly1g73qiuwzs8j30cg02w0sr.jpg)
+
 我们看到由于我们创建的是一个NSObject的子类，所以自动引入了Foundation框架。如果创建的是与view相关的子类，可能需要引入UIKit框架。
 ### 头文件
 上文中提到了h和m文件，那么h文件就是头文件，这个EOCPerson的头文件已经默认引入了Foundation。EOCPerson有两个属性name和address，都是NSSring类型，如果我们想自定义一个类型作为EOCPerson的属性，应该怎么做呢。如果我们直接加上这行代码
