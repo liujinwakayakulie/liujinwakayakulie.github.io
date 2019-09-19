@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      理解“属性”这一概念
+subtitle:   Effective OC 第六条
+date:       2019-09-19
+author:     二狗子
+header-img: img/home-bg-o.jpg
+catalog: true
+tags:
+    - Effective OC
+---
+
 # 理解“属性”这一概念
 
 ### 实例变量
