@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      用枚举表示状态、选项、状态码
+subtitle:   Effective OC 第五条
+date:       2019-09-19
+author:     二狗子
+header-img: img/home-bg-o.jpg
+catalog: true
+tags:
+    - Effective OC
+---
 # 用枚举表示状态、选项、状态码
 
 ### C++11 枚举标准
