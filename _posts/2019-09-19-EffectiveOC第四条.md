@@ -1,4 +1,16 @@
-# 多用类型常量少用#define预处理指令
+---
+layout:     post
+title:      多用类型常量少用,#define预处理指令
+subtitle:   Effective OC 第四条
+date:       2019-09-19
+author:     二狗子
+header-img: img/home-bg-o.jpg
+catalog: true
+tags:
+    - Effective OC
+---
+
+# 多用类型常量少用,#define预处理指令
 ### 宏定义
 
 ```
