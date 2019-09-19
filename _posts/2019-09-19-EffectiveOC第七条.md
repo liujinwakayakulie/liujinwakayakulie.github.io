@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      在对象内部尽量直接访问实例变量
+subtitle:   Effective OC 第七条
+date:       2019-09-19
+author:     二狗子
+header-img: img/home-bg-o.jpg
+catalog: true
+tags:
+    - Effective OC
+---
 # 在对象内部尽量直接访问实例变量
 
 ### 前言
