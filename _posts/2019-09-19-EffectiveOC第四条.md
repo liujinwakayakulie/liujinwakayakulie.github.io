@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      多用类型常量少用#define预处理指令
+title:      多用类型常量少用,#define预处理指令
 subtitle:   Effective OC 第四条
 date:       2019-09-19
 author:     二狗子
