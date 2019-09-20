@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      理解“对象等同性”这一概念
+subtitle:   Effective OC 第八条
+date:       2019-09-20
+author:     二狗子
+header-img: img/home-bg-o.jpg
+catalog: true
+tags:
+    - Effective OC
+---
 # 理解“对象等同性”这一概念
 
 ### OC中的等同性
