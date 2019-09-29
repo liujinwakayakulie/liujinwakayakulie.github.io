@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      记一次技术含量很低的iOS13适配
+title:      2019-09-20-记一次技术含量很低的iOS13适配
 subtitle:   iOS日常积累
 date:       2019-09-20
 author:     二狗子
