@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      记一次技术含量很低的iOS13适配
+subtitle:   iOS日常积累
+date:       2019-09-20
+author:     二狗子
+header-img: img/home-bg-o.jpg
+catalog: true
+tags:
+    - iOS日常积累
+    - OC
+---
 # 记一次技术含量很低的iOS13适配
 
 ## 前言
